@@ -25,6 +25,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Java\xiangmushixun\Boss\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -33,6 +40,7 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1d7IENab0gKWNQC12v7e6VcJIbd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -267,12 +275,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591769597218</updated>
-      <workItem from="1591769609550" duration="8763000" />
+      <workItem from="1591769609550" duration="9115000" />
     </task>
+    <task id="LOCAL-00001" summary="上课代码">
+      <created>1591778934271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591778934271</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="上课代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="上课代码" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="181" key="#Tomcat_Server" timestamp="1591771124503">
@@ -291,14 +311,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="181" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1920.1040@0.0.1920.1040" timestamp="1591771139865" />
-    <state x="876" y="170" key="CommitChangelistDialog2" timestamp="1591778844335">
+    <state x="876" y="170" key="CommitChangelistDialog2" timestamp="1591778930561">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="876" y="170" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591778844335" />
+    <state x="876" y="170" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591778930561" />
     <state x="812" y="274" key="FileChooserDialogImpl" timestamp="1591778745177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="812" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591778745177" />
+    <state x="1149" y="468" width="274" height="281" key="Github.ShareDialog" timestamp="1591779029819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1149" y="468" width="274" height="281" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591779029819" />
     <state width="940" height="200" key="GridCell.Tab.0.bottom" timestamp="1591778413777">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -351,6 +375,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="751" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591778676687" />
+    <state x="866" y="296" key="Vcs.Push.Dialog.v2" timestamp="1591778964615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="866" y="296" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591778964615" />
     <state x="696" y="356" key="com.intellij.ide.util.TipDialog" timestamp="1591769609557">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
